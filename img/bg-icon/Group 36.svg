@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152.753" height="170.511" viewBox="0 0 152.753 170.511">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.392" y1="0.082" x2="0.545" y2="1.42" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#aceee2"/>
+      <stop offset="1" stop-color="#cf0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_36" data-name="Group 36" transform="translate(-218.581 -257.989)">
+    <path id="Union_3" data-name="Union 3" d="M34.65-1035.766c-40.889-34.892-34.431-79.391-5.589-80.9-4.381-34.49,47.752-62.767,81.449-39.769,16.3,11.122,23.514,25.094,23.7,36.156,9.062,1.32,16.555,7.9,21.869,24.988,13.108,42.143-30.206,76.36-73.879,76.36C65.325-1018.927,48.4-1024.035,34.65-1035.766Z" transform="translate(212.875 1422.759)" fill="url(#linear-gradient)"/>
+    <g id="Group_23" data-name="Group 23" transform="translate(289.282 366.625)">
+      <line id="Line_11" data-name="Line 11" y1="65" transform="translate(6.519 -5.125)" fill="none" stroke="#fff7bf" stroke-linecap="round" stroke-width="4"/>
+      <path id="Path_29" data-name="Path 29" d="M135.666,569.516,123.5,558.462" transform="translate(-129.209 -538.014)" fill="none" stroke="#fff7bf" stroke-linecap="round" stroke-width="4"/>
+      <path id="Path_30" data-name="Path 30" d="M133.366,567.369l-9.866-8.907" transform="translate(-127.909 -557.064)" fill="none" stroke="#fff7bf" stroke-linecap="round" stroke-width="4"/>
+      <path id="Path_31" data-name="Path 31" d="M0,0,12.533,16.244" transform="translate(7.18 18.694) rotate(-90)" fill="none" stroke="#fff7bf" stroke-linecap="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
